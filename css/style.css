@@ -7,3 +7,6 @@ body{
 header{
     background-color: skyblue;
 }
+.box{
+    margin: 0;
+}
